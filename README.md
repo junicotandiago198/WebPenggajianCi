@@ -7,7 +7,7 @@ Instalasi & Konfigurasi
 Untuk cara instalasi dan konfigurasi caranya sangat mudah
 
 1. Download atau clone repositori ini
-2. Selanjutnya kalian bisa extranct pada htdocs lalu buka foldernya ke teks editor favorite
+2. Selanjutnya kalian bisa extract pada htdocs lalu buka foldernya ke teks editor favorite
 3. Ubah isi dari variable $base_url dengan http://localhost/namafolder/
 4. Untuk namafolder silahkan kalian ganti sesuai nama folder dari aplikasi ini di komputer atau laptop kalian
 5. Untuk login kalian bisa register terlebih dahulu setelah itu login.
